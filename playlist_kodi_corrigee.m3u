@@ -1,0 +1,50 @@
+
+#EXTM3U
+
+#EXTINF:-1 tvg-id="IPTVMonde" group-title="Monde", IPTV Monde
+https://iptv-org.github.io/iptv/index.country.m3u
+
+#EXTINF:-1 tvg-id="Sport1" group-title="Sport", Sport 1
+https://iptvmate.net/files/20012021/sport/Sport_1.iptvmate.net.m3u8
+
+#EXTINF:-1 tvg-id="Sport4" group-title="Sport", Sport 4
+https://iptvmate.net/files/20012021/sport/Sport_4.iptvmate.net.m3u8
+
+#EXTINF:-1 tvg-id="Sport5" group-title="Sport", Sport 5
+https://iptvmate.net/files/20012021/sport/Sport_5.iptvmate.net.m3u8
+
+#EXTINF:-1 tvg-id="IPTVSportPlaylist" group-title="Sport", Playlist IPTV Sport
+https://iptv-org.github.io/iptv/categories/sport.m3u
+
+#EXTINF:-1 tvg-id="Amour" group-title="Love", IPTV Love
+https://pastebin.com/raw/jMe87UHE
+
+#EXTINF:-1 tvg-id="News1" group-title="News", IPTV News 1
+https://iptv-org.github.io/iptv/categories/news.m3u
+
+#EXTINF:-1 tvg-id="News2" group-title="News", IPTV News 2
+http://playlist.autoiptv.net/news.php
+
+#EXTINF:-1 tvg-id="News3" group-title="News", IPTV News 3
+http://79.153.214.157:9981/playlist
+
+#EXTINF:-1 tvg-id="News4" group-title="News", IPTV News 4
+http://xml.autoiptv.net/news.php
+
+#EXTINF:-1 tvg-id="France" group-title="France", IPTV France
+https://iptv-org.github.io/iptv/countries/fr.m3u
+
+#EXTINF:-1 tvg-id="Films" group-title="Movies", IPTV Movies
+http://playlist.autoiptv.net/movie.php
+
+#EXTINF:-1 tvg-id="Music1" group-title="Music", IPTV Music 1
+http://playlist.autoiptv.net/music.php
+
+#EXTINF:-1 tvg-id="Music2" group-title="Music", IPTV Music 2
+http://37.133.25.67:9981/playlist
+
+#EXTINF:-1 tvg-id="Music3" group-title="Music", IPTV Music 3
+http://xml.autoiptv.net/music.php
+
+#EXTINF:-1 tvg-id="Religieux" group-title="Religion", IPTV Religion
+https://pastebin.com/raw/ikshwe1W
